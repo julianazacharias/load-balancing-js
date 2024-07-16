@@ -19,7 +19,8 @@ Install the dependencies:
 
 ## Configuration
 
-1. Configure backend servers in the `config.json` file. Add the IP addresses and port numbers of your backend servers along with their respective timeouts (for least connections algorithm).
+1. Configure backend servers in the `config.json` file.
+2. Add the IP addresses and port numbers of your backend servers along with their respective timeouts (for least connections algorithm).
 
 ## Run
 
